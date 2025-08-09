@@ -1,15 +1,17 @@
 # Job Application Tracker Dashboard
-## Technologies used 
+## ✅ Technologies used 
 MERN Stack
-## Frontend
+## ✅ Frontend
 React.js
 Tailwind CSS
-## Database
+## ✅ Database
 MongoDB
-## Backend
+## ✅ Backend
 Express.js
 Node.js
 
-# Project Description
+# 📖📖Project Description
 
 Developed a responsive dashboard allowing students or working professionals to track their progress regarding a job or internship application by manually updating the dashboard. Implemented secure user authentication using JWT and bcrypt with 100% CRUD functionality for applications management.
+
+# 📷 Screenshots
