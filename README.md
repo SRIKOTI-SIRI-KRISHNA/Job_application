@@ -1,13 +1,20 @@
 # Job Application Tracker Dashboard
 ## ✅ Technologies used 
 MERN Stack
+
+
 ## ✅ Frontend
-React.js
+React.js,
 Tailwind CSS
+
+
 ## ✅ Database
 MongoDB
+
+
 ## ✅ Backend
-Express.js
+Express.js,
+
 Node.js
 
 # 📖📖Project Description
