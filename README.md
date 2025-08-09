@@ -28,7 +28,7 @@ Implemented User Signup and Login using JWT and bcrypt
 
 Used lucide react for desecnt icons
 
-
+Tailwind CSS for styling 
 
 
 
