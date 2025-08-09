@@ -1,4 +1,4 @@
-# Job Application Tracker
+# Job Application Tracker Dashboard
 ## Technologies used 
 MERN Stack
 ## Frontend
